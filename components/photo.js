@@ -18,10 +18,10 @@ const Photo = () => {
           className="w-[198px] h-[198px] xl:w-[298px] xl:h-[298px] mix-blend-lighten"
         >
           <Image
-            src={"/photo.png"}
+            src={"/profile.png"}
             priority
-            quality={100}
             fill
+            quality={100}
             alt="photo"
             className="object-contain"
           />
