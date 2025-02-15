@@ -10,7 +10,7 @@ const socials = [
     icon: <FaLinkedin />,
     path: "https://www.linkedin.com/in/mohamad-irfan-f-988329322/",
   },
-  { icon: <FaInstagram />, path: "https://www.instagram.com/irf_20/" },
+  { icon: <FaInstagram />, path: "https://www.instagram.com/fanndev._/" },
 ];
 
 const Socials = ({containerStyles, iconStyles}) => {

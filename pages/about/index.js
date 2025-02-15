@@ -75,7 +75,7 @@ const aboutData = [
       },
       {
         title: "Web Developer - ITEC",
-        stage: "2023 - Now",
+        stage: "2023",
       },
     ],
   },
